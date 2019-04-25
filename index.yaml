@@ -1,0 +1,88 @@
+apiVersion: v1
+entries:
+  yourls:
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: 2019-04-25T22:22:14.601569527Z
+    description: Your Own URL Shortener
+    digest: 35016138d5de09fd58a5e7037059cd447ed267aa98143b00eb21ee99f1f72d30
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: 2019-04-25T22:22:14.600023037Z
+    description: Your Own URL Shortener
+    digest: e4947fab998034a0da8075703c7494cfd1ed4ed76ef45a5b4cba7947a0b614d6
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: 2019-04-25T22:22:14.598473448Z
+    description: Your Own URL Shortener
+    digest: ad22ddbd772cd4f5116eff756fc856f4a74072a6b722a25cf919ae8b3a0b8e0b
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.7.2
+    created: 2019-04-25T22:22:14.596941104Z
+    description: Your Own URL Shortener
+    digest: 64db1b5b14d6e26a9b00a2a8a116086debb3dd24040fac3f755d710a449e0c1b
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-04-25T22:22:14.594462321Z
