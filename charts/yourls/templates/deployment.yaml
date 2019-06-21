@@ -8,6 +8,8 @@ metadata:
     release: {{ .Release.Name | quote }}
     heritage: {{ .Release.Service | quote }}
 spec:
+  securityContext:
+    fsGroup: 1000
   selector:
     matchLabels:
       app: "{{ template "yourls.fullname" . }}"
